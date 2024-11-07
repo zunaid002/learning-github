@@ -1,1 +1,1 @@
-this repo was osed to leatn git and git hub.
+This repo was used to learn git and git hub.
